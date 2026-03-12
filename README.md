@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MatiasFino
 - 👀 I’m interested in Software Develompent
-- 🌱 I’m currently learning Software Engineering at UNICEN
-- 💞️ I’m looking to collaborate on Blockchain and Crypto projects
+- 🌱 I’m currently at the end of my Software Engineering degree at UNICEN
 - 📫 How to reach me matiasfino@protonmail.com
 
 <!---
